@@ -28,7 +28,6 @@ outputs/
 # Reports
 
 report.xlsx
-*.xlsx
 
 # Logs
 
