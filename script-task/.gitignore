@@ -21,6 +21,7 @@ env/
 
 # Generated outputs
 
+input/
 outputs/
 *.264
 *.h264
