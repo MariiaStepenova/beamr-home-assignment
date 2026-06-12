@@ -1,0 +1,41 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# macOS
+
+.DS_Store
+
+# IDEs
+
+.vscode/
+.idea/
+
+# Generated outputs
+
+outputs/
+*.264
+*.h264
+
+# Reports
+
+report.xlsx
+*.xlsx
+
+# Logs
+
+*.log
+
+# Build artifacts
+
+build/
+dist/
+*.egg-info/
