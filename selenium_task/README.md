@@ -6,7 +6,6 @@ Automated UI test for HEIC to JPG conversion using Selenium WebDriver and Page O
 
 - Python 3.10+
 - Google Chrome
-- ChromeDriver compatible with the installed Chrome version
 
 ## Installation
 
