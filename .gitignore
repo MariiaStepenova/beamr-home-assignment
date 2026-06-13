@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Test caches
+.pytest_cache/
+
+# Script task outputs
+script_task/input/
+script_task/outputs/
+script_task/report.xlsx
+
+# Selenium task outputs
+selenium_task/downloads/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
