@@ -22,7 +22,7 @@ The input path may be absolute or relative to the current working directory.
 Basic usage:
 
 ```bash
-python3 run_analysis.py \
+python3 run_encoding_analysis.py \
     --input foreman-cif.yuv \
     --resolution 352x288
 ```
@@ -30,7 +30,7 @@ python3 run_analysis.py \
 Custom QP range:
 
 ```bash
-python3 run_analysis.py \
+python3 run_encoding_analysis.py \
     --input foreman-cif.yuv \
     --resolution 352x288 \
     --qp-start 20 \
@@ -40,7 +40,7 @@ python3 run_analysis.py \
 Custom output directory:
 
 ```bash
-python3 run_analysis.py \
+python3 run_encoding_analysis.py \
     --input foreman-cif.yuv \
     --resolution 352x288 \
     --output-dir outputs
